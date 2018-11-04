@@ -125,7 +125,7 @@ STATIC_URL = '/static/'
 WEBPACK_LOADER = {
    'DEFAULT': {
         'CACHE': not DEBUG,
-        'STATS_FILE': os.path.join(BASE_DIR,'FrontEnd/webpack-stats.json'),
+        'STATS_FILE': os.path.join(BASE_DIR,'VueVue1/vuevue1/vue-DjangoTest/vuevue1/webpack-stats.json'),
         'POLL_INTERVAL': 0.1,
         'TIMEOUT': None,
         'IGNORE': ['.+\.hot-update.js', '.+\.map']

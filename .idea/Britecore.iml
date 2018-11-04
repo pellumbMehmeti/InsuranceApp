@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/InsuraneApp/InsuraneApp" />
+        <option name="settingsModule" value="settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$USER_HOME$/Desktop/vuevue1" />
     <content url="file://$MODULE_DIR$">
@@ -7,6 +17,49 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/dist" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/public" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/jsbn" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs/examples/koa" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs/examples/echo" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs/examples/hapi/html" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs/examples/express" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs/examples/multiplex" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs/examples/express-3.x" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/uri-js/tests" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/date-now/test/static" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/loglevel/test" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/js-base64" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/js-base64/test" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/js-base64/.attic/test-moment" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/css-loader/node_modules/coa/coverage" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/css-loader/node_modules/coa/coverage/coa" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/css-loader/node_modules/coa/coverage/coa/lib" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/http-proxy/coverage/lcov-report" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/http-proxy/coverage/lcov-report/lib" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/http-proxy/coverage/lcov-report/lib/http-proxy/passes" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/http-proxy/coverage/lcov-report/http-proxy" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/http-proxy/coverage/lcov-report/http-proxy/passes" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sprintf-js/demo" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/serve-index/public" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/sockjs-client/node_modules/faye-websocket/examples" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/vm-browserify/example/run" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/faye-websocket/examples" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/crypto-browserify/example" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/console-browserify/test/static" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/webpack-dev-server/client" />
+        <option value="$MODULE_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules/uglifyjs-webpack-plugin/node_modules/uglify-js/tools" />
+        <option value="$MODULE_DIR$/InsuraneApp/FrontEnd" />
+        <option value="$MODULE_DIR$/InsuraneApp/Templates" />
+      </list>
+    </option>
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
