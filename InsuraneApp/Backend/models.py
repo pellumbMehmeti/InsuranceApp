@@ -9,8 +9,8 @@ class User(models.Model):
     photo = models.URLField(blank=False)  #te verifikohet edhe njihere
     address = models.CharField(max_length = 50, blank = False)
     password = models.CharField(max_length = 15, blank = False)
-    created_at = models.DateTimeField(auto_now_add=True)
+    # created_at = models.DateTimeField(auto_now_add=True)
 
-class Meta:
-    ordering = ('created_at',)
+# class Meta:
+#     # ordering = ('created_at',)
 

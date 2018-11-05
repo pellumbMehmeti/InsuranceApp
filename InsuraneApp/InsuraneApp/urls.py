@@ -26,6 +26,7 @@ router = routers.DefaultRouter()
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', TemplateView.as_view(template_name=".\index.html")),
+    url(r'^api/', include('Backend.urls', namespace='users')), #te verifikohet per errora
     url(r'^api/',include(router.urls)),
 
 ]

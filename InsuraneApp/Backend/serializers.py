@@ -13,7 +13,6 @@ from .models import User
 #     fields = ('id', 'name', 'surname', 'birthday', 'photo')
 
 class UserSerializer(serializers.ModelSerializer):
-
     name = serializers.CharField(max_length = 50, blank = False)
     surname = serializers.CharField(max_length = 50, blank = False)
     email = serializers.CharField(max_length= 20,blank = False)
@@ -22,8 +21,18 @@ class UserSerializer(serializers.ModelSerializer):
     photo = serializers.URLField(blank=False)  #te verifikohet edhe njihere
     address = serializers.CharField(max_length = 50, blank = False)
     password = serializers.CharField(max_length = 15, blank = False)
-    created_at = serializers.DateTimeField(auto_now_add=True)
+    # created_at = serializers.DateTimeField(auto_now_add=True)
 
 class Meta:
     model = User
-    fields = ('id', 'name', 'surname', 'email', 'username', 'password', 'birthday', 'photo', 'address', 'created_at')
+    fields = ('id', 'name', 'surname', 'email', 'username', 'password', 'birthday', 'photo', 'address')
+
+
+class UserListSerializer(serializers.ModelSerializer):
+    name = serializers.CharField(max_length = 50, blank = False)
+    surname = serializers.CharField(max_length = 50, blank = False)
+    email = serializers.CharField(max_length= 20,blank = False)
+
+class Meta:
+    model = User
+    fields = ('id', 'name', 'surname', 'email')
