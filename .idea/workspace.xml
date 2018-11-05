@@ -241,7 +241,7 @@
     <handled-path value="$PROJECT_DIR$/InsuraneApp/VueVue1/vuevue1/vue-DjangoTest/vuevue1/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1760" />
@@ -411,15 +411,15 @@
       <workItem from="1541251573475" duration="6940000" />
       <workItem from="1541264584555" duration="780000" />
       <workItem from="1541337920390" duration="17280000" />
-      <workItem from="1541442213235" duration="9925000" />
+      <workItem from="1541442213235" duration="10055000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35258000" />
+    <option name="totallyTimeSpent" value="35388000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
